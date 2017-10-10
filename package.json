@@ -2,7 +2,7 @@
   "name": "procsight-api",
   "description": "An open-source ProCurrency blockchain API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the ProCurrency network and build your own services with it.",
   "version": "0.2.18",
-  "repository": "git://github.com/procurrency/procsight-api.git",
+  "repository": "git://github.com/procommerce-io/procsight-api.git",
   "contributors": [{
     "name": "Matias Alejo Garcia",
     "email": "ematiu@gmail.com"
@@ -29,9 +29,9 @@
     "email": "support@procurrency.org"
   }],
   "bugs": {
-    "url": "https://github.com/procurrency/procsight-api/issues"
+    "url": "https://github.com/procommerce-io/procsight-api/issues"
   },
-  "homepage": "https://github.com/procurrency/procsight-api",
+  "homepage": "https://github.com/procommerce-io/procsight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -59,11 +59,11 @@
     "base58-native": "0.1.2",
     "bignum": "*",
     "morgan": "*",
-    "proccore": "git://github.com/procurrency/proccore.git",
-    "bufferput": "git://github.com/procurrency/node-bufferput.git",
+    "proccore": "git://github.com/procommerce-io/proccore.git",
+    "bufferput": "git://github.com/procommerce-io/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
-    "connect-ratelimit": "git://github.com/procurrency/connect-ratelimit.git",
+    "connect-ratelimit": "git://github.com/procommerce-io/connect-ratelimit.git",
     "cron": "^1.0.4",
     "express": "~3.4.7",
     "glob": "*",
